@@ -1,0 +1,23 @@
+{
+  "id": "pf2e-quick-ruby-phoenix-mockup",
+  "title": "PF2e: Quick Ruby Phoenix Mockup",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "packs": [
+    {
+      "name": "fists-of-the-ruby-phoenix-mockup",
+      "label": "Fists of the Ruby Phoenix Mockup",
+      "path": "packs/fists-of-the-ruby-phoenix-mockup",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pf2e",
+      "flags": {}
+    }
+  ]
+}
